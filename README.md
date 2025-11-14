@@ -9,7 +9,6 @@ Storetest is a demo **application for browsing products/saving favorites and sel
 | **State Management**      | BLoC (flutter_bloc)                               |
 | **Dependency Injection**  | GetIt + Injectable                                |
 | **Local Storages**        | Flutter Shared Preferences                        |
-| **Environment Variables** | Flutter Dotenv                                    |
 | **Utilities**             | Equatable                                         |
 | **UI Helpers**            | Flutter ScreenUtil                                |
 | **Mini Browser**          | Flutter WebView                                   |
